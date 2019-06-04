@@ -1,0 +1,12 @@
+2019-06-04 18:13:44,571 [-]Target weblogic not detected CVE-2017-3506
+
+2019-06-04 18:13:44,578 [-]Target weblogic not detected CVE-2017-10271
+
+2019-06-04 18:13:44,584 [-]Target weblogic not detected CVE-2018-2894
+
+2019-06-04 18:13:44,585 [-]Target Weblogic console address not found!
+
+2019-06-04 18:13:44,585 [+]The target Weblogic UDDI module is exposed! The path is: http://114.255.138.177:7001/uddiexplorer/ Please verify the SSRF vulnerability!
+
+2019-06-04 18:13:44,596 [-]Target weblogic not detected CVE-2019-2725
+
