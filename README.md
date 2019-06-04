@@ -1,6 +1,6 @@
 <div align=center><img src=WeblogicScan.jpg width="60%"></div>
 
-# WeblogicScan
+# WeblogicScanMulti
 Weblogic vulnerability one-click poc detection.
 
 	Software Author: Tide_RabbitMask.
